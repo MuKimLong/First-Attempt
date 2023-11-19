@@ -35,6 +35,6 @@ This folder contains my working notes on SQL and various sample queries.
 
 This folder contains dashboards that I have previously prepared using Tableau.
 
-#Project_General:
+# Project_General:
 
 Under this folder, I have collected projects from the first semester in general.
